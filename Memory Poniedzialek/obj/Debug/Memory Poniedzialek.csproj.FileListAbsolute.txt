@@ -1,0 +1,24 @@
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\Memory Poniedzialek.exe.config
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\Memory Poniedzialek.exe
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\Memory Poniedzialek.pdb
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\obj\Debug\Memory Poniedzialek.csprojAssemblyReference.cache
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\obj\Debug\Memory_Poniedzialek.Form1.resources
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\obj\Debug\Memory_Poniedzialek.Properties.Resources.resources
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\obj\Debug\Memory Poniedzialek.csproj.GenerateResource.cache
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\obj\Debug\Memory Poniedzialek.csproj.CoreCompileInputs.cache
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\obj\Debug\Memory Poniedzialek.exe
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\obj\Debug\Memory Poniedzialek.pdb
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\logo.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\andro.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\apple.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\chasz.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\cplus.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\css.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\html.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\java.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\js.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\php.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\pyt.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\scra.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\bin\Debug\img\memory\sql.jpg
+C:\Users\szymw\source\repos\Memory Poniedzialek\Memory Poniedzialek\obj\Debug\Memory_Poniedzialek.MemoryCard.resources
